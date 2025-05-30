@@ -3,7 +3,7 @@
 ###
 
 <p align="left">
-  You can call me <strong>JJ</strong> (nickname: Junjao).<br>
+  You can call me <strong>JJ</strong>.<br>
   I'm Phudid Pimpasan, a Computer Engineering student from <strong>KMUTT</strong>, Bangkok, Thailand.
 </p>
 
@@ -14,10 +14,10 @@
 ###
 
 <p align="left">
-- 🎓 CPE37 @ KMUTT | Computer Engineering.
-- 🎯 Be better than yesterday.
-- 🔥 Passionate about data analysis, game dev, and cybersecurity.
-- ⚡ Enjoy sketching, gaming, and reading books.
+- 🎓 CPE37 @ KMUTT | Computer Engineering.<br>
+- 🎯 Be better than yesterday.<br>
+- 🔥 Passionate about data analysis, game dev, and cybersecurity.<br>
+- ⚡ Enjoy sketching, gaming, and reading books.<br>
 </p>
 
 ###

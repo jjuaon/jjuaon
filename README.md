@@ -16,7 +16,7 @@
 <p align="left">
 - 🎓 CPE37 @ KMUTT | Computer Engineering.<br>
 - 🎯 Be better than yesterday.<br>
-- 🔥 Passionate about data analysis, game dev, and cybersecurity.<br>
+- 🔥 Passionate about data science, game dev, and AI.<br>
 - ⚡ Enjoy sketching, gaming, and reading books.<br>
 </p>
 
